@@ -9,6 +9,7 @@ Le programme s'effectue en 4 étapes :
 3ème étape - Entrez l'âge d'une autre personne (Selon le nom choisi au début, l'âge du nom choisi et cet âge ici, des fonctionnalités peuvent être découvertes)
 
 4ème étape - Selon vos choix, soit le programme se finit maintenant, soit il peut continuer, courage pour découvrir sans allez voir le code source.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Merci d'avoir pris de votre temps pour avoir testé mon programme qui pue sa grand mère.
 

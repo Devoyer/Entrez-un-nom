@@ -4,7 +4,7 @@ Le programme s'effectue en 4 étapes :
 
 1ère étape - Entrez un nom (certains noms permettent d'avoir accès à des fonctionnalités)
 
-2ème étape - Entrez un nom de famille
+2ème étape - Entrez un nom de famille.
 
 3ème étape - Entrez un âge (Selon l'âge et le nom choisi des fonctionnalités peuvent être découvertes)
 
@@ -12,7 +12,8 @@ Le programme s'effectue en 4 étapes :
 
 5ème étape - Selon vos choix, soit le programme se finit maintenant, soit il peut continuer, courage pour découvrir sans allez voir le code source.
 
-6ème étape - Entrez selon vos estimations l'intelligence du nom choisi
+6ème étape - Entrez selon vos estimations l'intelligence du nom choisi.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Merci d'avoir pris de votre temps pour avoir testé mon programme qui pue sa grand mère.
 
